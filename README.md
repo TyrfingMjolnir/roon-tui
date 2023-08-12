@@ -10,7 +10,7 @@ A Roon Remote for the terminal
 * Change directory and build the project: `cd roon-tui && cargo build --release`
 * The binary can be found in: `target/release/roon-tui`
 
-## Building from Source Code
+## Building from Source Code MacOS X 12.6.7 Monterey in my case.
 * Install Rust: visit [rustup.rs](https://rustup.rs/) and follow the provided instructions
 * `brew install rust`
 * `cd /opt/local/dev/`
