@@ -4,15 +4,8 @@ A Roon Remote for the terminal
 
 ![Roon TUI screenshot](images/screenshot.png)
 
-## Building from Source Code
-* Install Rust: visit [rustup.rs](https://rustup.rs/) and follow the provided instructions
-* Clone the roon-tui git repository: `git clone https://github.com/TheAppgineer/roon-tui.git`
-* Change directory and build the project: `cd roon-tui && cargo build --release`
-* The binary can be found in: `target/release/roon-tui`
-
 ## Building from Source Code MacOS X 12.6.7 Monterey in my case.
-* Install Rust: visit [rustup.rs](https://rustup.rs/) and follow the provided instructions
-* `brew install rust`
+* `brew install rust` // None-brew-option: Rust: visit [rustup.rs](https://rustup.rs/) and follow the provided instructions
 * `cd /opt/local/dev/`
 * Clone the roon-tui git repository: `git clone https://github.com/TheAppgineer/roon-tui.git`
 * Change directory and build the project: `cd roon-tui && cargo build --release`
