@@ -10,6 +10,16 @@ A Roon Remote for the terminal
 * Change directory and build the project: `cd roon-tui && cargo build --release`
 * The binary can be found in: `target/release/roon-tui`
 
+## Building from Source Code
+* Install Rust: visit [rustup.rs](https://rustup.rs/) and follow the provided instructions
+* `brew install rust`
+* `cd /opt/local/dev/`
+* Clone the roon-tui git repository: `git clone https://github.com/TheAppgineer/roon-tui.git`
+* Change directory and build the project: `cd roon-tui && cargo build --release`
+* The binary can be found in: `target/release/roon-tui`
+* `chmod +x /opt/local/dev/roon-tui/target/release/roon-tui`
+* `/opt/local/dev/roon-tui/target/release/roon-tui&`
+
 ## Downloading Release Binaries
 Prebuilt binaries can be downloaded from the [latests release](https://github.com/TheAppgineer/roon-tui/releases/latest) page on GitHub. Binaries might have been created by other users for platforms I don't have access to myself.
 
