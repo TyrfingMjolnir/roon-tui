@@ -71,7 +71,7 @@ This is Alpha stage software. Instead of using the official [Node.js Roon API](h
 |Esc|Back to previous view
 
 # User experience
-I now have Roon TUI running on Solus Budgie Desktop, I installed both the rust packages, namely Rust and Rustup, then did the following in terminal:
+I now have `Roon TUI` running on Solus Budgie Desktop, I installed both the rust packages, namely `Rust` and `Rustup`, then did the following in terminal:
 ```Sh
 cd /opt/local/dev
 git clone https://github.com/TheAppgineer/roon-tui
